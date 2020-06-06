@@ -1,6 +1,6 @@
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
-# Ramadan Prayer Times Display & Alarm
+# Prayer Times Display & Alarm
 
 ## 📋 Project Summary
 
