@@ -4,6 +4,8 @@
 
 ## 📋 Project Summary
 
+![alt text](https://github.com/jenizar/RPi_Ramadan_PrayerTimes/blob/master/Screenshot.png)
+
 Klik gambar berikut untuk melihat video demo:
 
 [![Video](https://img.youtube.com/vi/0uLCCJUrUKU/0.jpg)](https://youtu.be/0uLCCJUrUKU)
